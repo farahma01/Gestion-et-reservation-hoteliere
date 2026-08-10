@@ -31,4 +31,3 @@ Gestion complète des hôtels (ajout, modification, suppression)
 Gestion des réservations (confirmation, annulation)
 Gestion et réponse aux messages des clients
 Accès protégé selon le rôle de l'utilisateur connecté
->>>>>>> 4bf5a363d2eb1b6192744f3e81ea64a63373b56d
