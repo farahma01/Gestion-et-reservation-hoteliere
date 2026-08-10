@@ -20,6 +20,8 @@ Système d'inscription et de connexion (authentification par token)
 Réservation d'hôtel (réservée aux utilisateurs connectés)
 Notation et avis sur les hôtels
 Formulaire de contact avec suivi des réponses ("Mes messages")
+
+
 Côté administrateur
 
 
